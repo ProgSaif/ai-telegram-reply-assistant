@@ -133,9 +133,5 @@ python main.py
 
 
 
-## 📜 License
-
-MIT License
-
 
 
