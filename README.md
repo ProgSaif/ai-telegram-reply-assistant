@@ -25,7 +25,7 @@ Telegram → Telethon → Python Bot → Ollama (Gemma) → Reply → Telegram
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/yourusername/ai-telegram-reply-assistant.git
+git clone https://github.com/ProgSaif/ai-telegram-reply-assistant.git
 cd ai-telegram-reply-assistant
 
 
